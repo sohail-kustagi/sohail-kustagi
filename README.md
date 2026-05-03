@@ -28,13 +28,20 @@
 ## 📊 GitHub Stats:
 
 <a href="https://github.com/sohail-kustagi">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohail-kustagi&show_icons=true&theme=dark" alt="Sohail's GitHub Stats" />
+</a>
+<br/>
+<a href="https://github.com/sohail-kustagi">
   <img src="https://streak-stats.demolab.com?user=sohail-kustagi&theme=dark" alt="GitHub Streak" />
+</a>
+<br/>
+<a href="https://github.com/sohail-kustagi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail-kustagi&theme=dark" alt="Top Languages" />
 </a>
 <br/>
 <a href="https://github.com/sohail-kustagi">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohail-kustagi&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
 </a>
-<br/>
 
 ## 📫 Let's Connect
 * [LinkedIn](https://linkedin.com/in/sohail-kustagi-1139bb387)
