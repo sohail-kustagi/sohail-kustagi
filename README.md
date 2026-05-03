@@ -25,29 +25,16 @@
 * **AI & Quant Research:** Developing algorithmic trading logic, utilizing the OpenRouter SDK for optimal reasoning token support with models like DeepSeek.
 * **IoT Automation:** Developed custom hardware projects including a MOSFET-controlled water heating furnace system (ESP32) and a timed medical dispenser with an OLED display (ESP8266).
 
-## 📈 GitHub Stats & Contributions
-
 ## 📊 GitHub Stats:
 
-<a href="https://github.com/sohail-kustagi">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail-kustagi&show_icons=true&theme=dark" alt="Sohail's GitHub Stats" />
-</a>
-<br/>
 <a href="https://github.com/sohail-kustagi">
   <img src="https://streak-stats.demolab.com?user=sohail-kustagi&theme=dark" alt="GitHub Streak" />
 </a>
 <br/>
 <a href="https://github.com/sohail-kustagi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail-kustagi&layout=compact&theme=dark" alt="Top Languages" />
-</a>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohail-kustagi&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohail-kustagi&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
-</p>
+</a>
+<br/>
 
 ## 📫 Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/sohail-kustagi-1139bb387) ```
+* [LinkedIn](https://linkedin.com/in/sohail-kustagi-1139bb387)
