@@ -28,8 +28,8 @@
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail-kustagi&show_icons=true&theme=radical" alt="Sohail's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail-kustagi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohail-kustagi&show_icons=true&theme=radical&v=1" alt="Sohail's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail-kustagi&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
