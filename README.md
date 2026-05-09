@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently pursuing my Bachelor of Computer Applications (BCA).<br>💻 Professional full-stack developer and security researcher.<br>🤖 Deeply interested in AI/ML, local model training, and quantitative finance (specifically building HFT architectures and integrating LLMs into trading logic).<br>🐧 Avid Linux enthusiast, usually found navigating an Ubuntu terminal, optimizing workstation hardware, or analyzing the XAU/USD market.<br>⚡ Actively building custom DIY electronic solutions and automation tools utilizing ESP32/ESP8266 microcontrollers.
+🎓 Currently pursuing my Bachelor of Computer Applications (BCA).<br>💻 Professional full-stack developer and security researcher.<br>🤖 Deeply interested in AI/ML, local model training, and quantitative finance (specifically building HFT architectures and integrating LLMs into trading logic).<br>🐧 Avid Linux enthusiast, usually found navigating an Ubuntu terminal, optimizing workstation hardware.<br>⚡ Actively building custom DIY electronic solutions and automation tools utilizing ESP32/ESP8266 microcontrollers, and raspberry pi.
 
 
 ## 🌐 Socials:
